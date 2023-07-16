@@ -250,7 +250,7 @@ html {
     height: 400px;
     width: 400px;
     object-fit: cover;
-    border-radius: 6px;
+    border-radius: 8px;
 }
 
 .about .about-content .right {
